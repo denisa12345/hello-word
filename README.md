@@ -1,2 +1,3 @@
 # hello-word
-first repository
+I am a verry pretty girl <3
+
